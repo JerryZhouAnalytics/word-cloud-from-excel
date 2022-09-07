@@ -1,0 +1,11 @@
+# ignore ALL .xlsx files
+.xlsx
+# ignore ALL .jpg or .png files
+.jpg
+.png
+# environment variables
+.env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+# test files
+test.py
